@@ -7,7 +7,7 @@
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🔭 I’m currently working on smart-folio
+- 🔭 I’m currently working as a freelancer. 
 - 🌱 I’m currently learning system design and improving my full-stack development skills
 - 🚀 Interested in building scalable SaaS and real-time web applications
 - 🤝 I’m open to collaborating on impactful projects
