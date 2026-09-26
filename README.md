@@ -1,79 +1,195 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Rhittik%20Kumar%20Barman&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20developer%20&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learn%2C%20build%2C%20improve%2C%20repeat." alt="Typing introduction" />
-</p>
-
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 🔭 I’m currently working as a freelancer. 
-- 🌱 I’m currently learning system design and improving my full-stack development skills
-- 🚀 Interested in building scalable SaaS and real-time web applications
-- 🤝 I’m open to collaborating on impactful projects
-- 💬 Ask me about React, Next.js, Node.js, and building SaaS applications
-- ⚡ Fun fact: I enjoy exploring new ideas and perspectives in my free time.
-
-
-## 🧠 My Focus Areas
-- Full Stack Development
-- AI-Based Web Applications
-- Real-Time Collaborative Systems
-- SaaS Product Development
-- System Design & Scalability
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/rhittik12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhittik12&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rhittik12's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=rhittik12&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="rhittik12's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rhittik12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rhittik Kumar Barman's GitHub Trophies" />
-</p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+
+<!-- ① HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" width="100%"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,60:161b22,100:0d1117&height=120&section=header&text=Rhittik%20Kumar%20Barman&fontSize=44&fontColor=58a6ff&descSize=16&descAlignY=85&descColor=8b949e" width="100%"/>
+</p>
+
+<!-- ② TYPING HEADLINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+dev+shipping+AI+%26+real-time+SaaS+products.)](https://git.io/typing-svg)
+
+<br>
+
+<!-- ③ CONTACT LINK -->
+### 🔗 [linkedin.com/in/rhittikbarman](https://linkedin.com/in/rhittikbarman) &nbsp;·&nbsp; [rittikbarman20@gmail.com](mailto:rittikbarman20@gmail.com)
+
+<!-- ④ QUICK-SCAN BADGES -->
+![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay-B.Tech%20Final%20Year-0d1117?style=flat-square&labelColor=1f6feb&color=161b22)
+![Freelance](https://img.shields.io/badge/Freelance-Full%20Stack%20Developer-0d1117?style=flat-square&labelColor=238636&color=161b22)
+
 </div>
 
+---
 
-## 🛠️ Languages & Tools
+Final-year B.Tech student at **IIT Bombay**, with over a year of freelance full-stack development experience.
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+Building production-ready AI SaaS products, real-time systems, and clean, design-driven interfaces end to end.
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+---
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+## 🛠️ Tech Stack
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /></p>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p>
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript)
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+</td>
+</tr>
 
-<p align="center">
-  <a href="https://github.com/rhittik12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhittik12&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<tr>
+<td><b>Frontend</b></td>
+<td>
 
-## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/rhittikbarman/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Rhittik Kumar Barman's LinkedIn"/></a> <a href="mailto:rittikbarman20@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Rhittik Kumar Barman's Email"/></a></p>
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</td>
+</tr>
+
+<tr>
+<td><b>Backend & Data</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js)
+![tRPC](https://img.shields.io/badge/tRPC-0d1117?style=flat-square)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0d1117?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql)
+![Neon](https://img.shields.io/badge/Neon-0d1117?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI & Real-Time</b></td>
+<td>
+
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-0d1117?style=flat-square&logo=openai)
+![WebRTC](https://img.shields.io/badge/WebRTC-0d1117?style=flat-square)
+![Inngest](https://img.shields.io/badge/Inngest-0d1117?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Auth & Deploy</b></td>
+<td>
+
+![Clerk](https://img.shields.io/badge/Clerk-0d1117?style=flat-square)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-0d1117?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker)
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### [🤖 ElevateAI](https://github.com/rhittik12/elevateai)
+AI agent platform for real-time video meetings — build custom AI agents and meet them over **WebRTC**. Every meeting is automatically transcribed, recorded, and summarized with OpenAI.
+
+`OpenAI Realtime API` `WebRTC` `Inngest` `tRPC` `Drizzle ORM` `Neon` `Better Auth`
+
+[📁 Repo](https://github.com/rhittik12/elevateai)
+
+</td>
+
+<td width="50%" valign="top">
+
+### [🎬 Movie Suggestion App](https://github.com/rhittik12/moviesuggestion)
+Find your next favorite movie fast — instant search and recommendations tuned to feel relevant, built for a smooth, cinematic browsing experience.
+
+`TypeScript` `Next.js`
+
+[📁 Repo](https://github.com/rhittik12/moviesuggestion)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [🎯 DevSpin](https://github.com/rhittik12/DevSpin)
+Spin for a random tech topic, test how well you actually know it, then write about it — a daily habit-builder for learning and blogging in public.
+
+`TypeScript`
+
+[📁 Repo](https://github.com/rhittik12/DevSpin)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧾 AI Content Generator
+Content generation tool built on the OpenAI API with user auth and persistent history.
+
+`Next.js` `OpenAI` `Drizzle` `Neon` `Clerk`
+
+</td>
+
+</tr>
+</table>
+
+## ⚡ What I'm Working On
+
+Learning distributed systems (MIT 6.824-style), building webhook delivery infrastructure with retries and idempotency for system design practice, and shipping design-driven side projects — from a GitHub-contribution-style habit tracker to a generative isometric cityscape poster built from contribution graphs.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=rhittik12&theme=github_dark&hide_border=true&show_icons=true"/>
+
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rhittik12&theme=github_dark&hide_border=true&layout=compact"/>
+
 </div>
 
+<hr>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rhittik12/rhittik12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rhittikbarman">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="mailto:rittikbarman20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rhittik12&label=Profile%20Views&color=1f6feb&style=flat-square" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=footer" width="100%"/>
