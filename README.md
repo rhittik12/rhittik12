@@ -8,12 +8,12 @@
 </p>
 
 <!-- ② TYPING HEADLINE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+dev+shipping+AI+%26+real-time+SaaS+products.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+dev+building+AI%2C+real-time+%26+backend-heavy+systems.)](https://git.io/typing-svg)
 
 <br>
 
 <!-- ③ CONTACT LINK -->
-### 🔗 [linkedin.com/in/rhittikbarman](https://linkedin.com/in/rhittikbarman) &nbsp;·&nbsp; [rittikbarman20@gmail.com](mailto:rittikbarman20@gmail.com)
+### 🔗 [linkedin.com/in/rhittikbarman](https://linkedin.com/in/rhittikbarman) &nbsp;·&nbsp; [rittikbarman20@gmail.com](mailto:rittikbarman20@gmail.com) &nbsp;·&nbsp; [@rkbdevir7](https://x.com/rkbdevir7)
 
 <!-- ④ QUICK-SCAN BADGES -->
 ![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay-B.Tech%20Final%20Year-0d1117?style=flat-square&labelColor=1f6feb&color=161b22)
@@ -210,10 +210,10 @@ Learning Go, distributed systems (MIT 6.824-style), and system design fundamenta
 
 <hr>
 
-## 🐍 Contribution Snake
+## 🏙️ 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rhittik12/rhittik12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rhittik12/rhittik12/main/profile-3d-city.svg" width="100%"/>
 </div>
 
 ---
