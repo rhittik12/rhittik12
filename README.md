@@ -29,6 +29,38 @@ Building production-ready AI SaaS products, real-time systems, and clean, design
 
 ---
 
+## 💼 Experience
+
+<table>
+<tr>
+<th></th>
+<th align="left">Role</th>
+<th align="left">Organization</th>
+<th align="left">Impact & Stack</th>
+</tr>
+
+<tr>
+<td>🟢</td>
+<td>
+<b>Freelance Developer</b><br>
+<sub>Apr 2025 – Present</sub>
+</td>
+<td>
+<b>Self-Employed</b><br>
+<sub>Remote · Contract</sub>
+</td>
+<td>
+Delivered full-stack systems for restaurant operations, salon booking, UK-based hiring management, and school administration as an independent contractor.<br><br>
+• Built an <b>ordering system</b> for a restaurant — menu updates, table orders, kitchen status, and customer billing<br>
+• Created an <b>online booking portal</b> for a salon — browse services, choose stylists, check slots, and book appointments<br>
+• Extended an existing <b>UK-based hiring platform</b> across vendor, job, recruiter, and candidate workflows<br>
+• Shipped a <b>school management system</b> for a US-based education provider — student records, classes, attendance, fee collection, and exam management
+</td>
+</tr>
+
+</table>
+<hr>
+
 ## 🛠️ Tech Stack
 
 <table>
@@ -36,8 +68,50 @@ Building production-ready AI SaaS products, real-time systems, and clean, design
 <td><b>Languages</b></td>
 <td>
 
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go)
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI & Systems</b></td>
+<td>
+
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend & Infrastructure</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-0d1117?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux)
 
 </td>
 </tr>
@@ -49,42 +123,6 @@ Building production-ready AI SaaS products, real-time systems, and clean, design
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Backend & Data</b></td>
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js)
-![tRPC](https://img.shields.io/badge/tRPC-0d1117?style=flat-square)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0d1117?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql)
-![Neon](https://img.shields.io/badge/Neon-0d1117?style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td><b>AI & Real-Time</b></td>
-<td>
-
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-0d1117?style=flat-square&logo=openai)
-![WebRTC](https://img.shields.io/badge/WebRTC-0d1117?style=flat-square)
-![Inngest](https://img.shields.io/badge/Inngest-0d1117?style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Auth & Deploy</b></td>
-<td>
-
-![Clerk](https://img.shields.io/badge/Clerk-0d1117?style=flat-square)
-![Better Auth](https://img.shields.io/badge/Better%20Auth-0d1117?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker)
 
 </td>
 </tr>
