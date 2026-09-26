@@ -51,9 +51,9 @@ Building production-ready AI SaaS products, real-time systems, and clean, design
 </td>
 <td>
 Delivered full-stack systems for restaurant operations, salon booking, UK-based hiring management, and school administration as an independent contractor.<br><br>
-• Built an <b>ordering system</b> for a restaurant handling menu updates, table orders, kitchen status, and customer billing<br>
-• Created an <b>online booking portal</b> for a salon to browse services, choose stylists, check slots, and book appointments<br>
-• Extended an existing <b>UK-based hiring platform</b> across vendor, job, recruiter, and candidate workflows<br>
+• Built an <b>ordering system</b> for a restaurant handling menu updates, table orders, kitchen status, and customer billing<br><br>
+• Created an <b>online booking portal</b> for a salon to browse services, choose stylists, check slots, and book appointments<br><br>
+• Extended an existing <b>UK-based hiring platform</b> across vendor, job, recruiter, and candidate workflows<br><br>
 • Shipped a <b>school management system</b> for a US-based education provider covering student records, classes, attendance, fee collection, and exam management
 </td>
 </tr>
