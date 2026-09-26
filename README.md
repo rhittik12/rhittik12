@@ -51,10 +51,10 @@ Building production-ready AI SaaS products, real-time systems, and clean, design
 </td>
 <td>
 Delivered full-stack systems for restaurant operations, salon booking, UK-based hiring management, and school administration as an independent contractor.<br><br>
-• Built an <b>ordering system</b> for a restaurant — menu updates, table orders, kitchen status, and customer billing<br>
-• Created an <b>online booking portal</b> for a salon — browse services, choose stylists, check slots, and book appointments<br>
+• Built an <b>ordering system</b> for a restaurant handling menu updates, table orders, kitchen status, and customer billing<br>
+• Created an <b>online booking portal</b> for a salon to browse services, choose stylists, check slots, and book appointments<br>
 • Extended an existing <b>UK-based hiring platform</b> across vendor, job, recruiter, and candidate workflows<br>
-• Shipped a <b>school management system</b> for a US-based education provider — student records, classes, attendance, fee collection, and exam management
+• Shipped a <b>school management system</b> for a US-based education provider covering student records, classes, attendance, fee collection, and exam management
 </td>
 </tr>
 
@@ -93,8 +93,10 @@ Delivered full-stack systems for restaurant operations, salon booking, UK-based 
 <td>
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi)
+![tRPC](https://img.shields.io/badge/tRPC-0d1117?style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb)
@@ -137,23 +139,23 @@ Delivered full-stack systems for restaurant operations, salon booking, UK-based 
 
 <td width="50%" valign="top">
 
-### [🤖 ElevateAI](https://github.com/rhittik12/elevateai)
-AI agent platform for real-time video meetings — build custom AI agents and meet them over **WebRTC**. Every meeting is automatically transcribed, recorded, and summarized with OpenAI.
+### [🤖 ElevateAI](https://elevateai-five.vercel.app/)
+AI agent platform for real-time video meetings, letting you build custom AI agents and meet them over **WebRTC**. Every meeting is automatically transcribed, recorded, and summarized with OpenAI.
 
 `OpenAI Realtime API` `WebRTC` `Inngest` `tRPC` `Drizzle ORM` `Neon` `Better Auth`
 
-[📁 Repo](https://github.com/rhittik12/elevateai)
+[🔗 Live](https://elevateai-five.vercel.app/) · [📁 Repo](https://github.com/rhittik12/elevateai)
 
 </td>
 
 <td width="50%" valign="top">
 
-### [🎬 Movie Suggestion App](https://github.com/rhittik12/moviesuggestion)
-Find your next favorite movie fast — instant search and recommendations tuned to feel relevant, built for a smooth, cinematic browsing experience.
+### [🎬 Movie Suggestion App](https://moviesuggestion-green.vercel.app/)
+Find your next favorite movie fast, with instant search and recommendations tuned to feel relevant, built for a smooth, cinematic browsing experience.
 
 `TypeScript` `Next.js`
 
-[📁 Repo](https://github.com/rhittik12/moviesuggestion)
+[🔗 Live](https://moviesuggestion-green.vercel.app/) · [📁 Repo](https://github.com/rhittik12/moviesuggestion)
 
 </td>
 
@@ -163,21 +165,23 @@ Find your next favorite movie fast — instant search and recommendations tuned 
 
 <td width="50%" valign="top">
 
-### [🎯 DevSpin](https://github.com/rhittik12/DevSpin)
-Spin for a random tech topic, test how well you actually know it, then write about it — a daily habit-builder for learning and blogging in public.
+### [🎯 DevSpin](https://dev-spin.vercel.app/)
+Spin for a random tech topic, test how well you actually know it, then write about it, a daily habit-builder for learning and blogging in public.
 
 `TypeScript`
 
-[📁 Repo](https://github.com/rhittik12/DevSpin)
+[🔗 Live](https://dev-spin.vercel.app/) · [📁 Repo](https://github.com/rhittik12/DevSpin)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧾 AI Content Generator
+### [🧾 AI Content Generator](https://ai-content-generator-33ec.vercel.app/)
 Content generation tool built on the OpenAI API with user auth and persistent history.
 
 `Next.js` `OpenAI` `Drizzle` `Neon` `Clerk`
+
+[🔗 Live](https://ai-content-generator-33ec.vercel.app/)
 
 </td>
 
@@ -186,7 +190,7 @@ Content generation tool built on the OpenAI API with user auth and persistent hi
 
 ## ⚡ What I'm Working On
 
-Learning distributed systems (MIT 6.824-style), building webhook delivery infrastructure with retries and idempotency for system design practice, and shipping design-driven side projects — from a GitHub-contribution-style habit tracker to a generative isometric cityscape poster built from contribution graphs.
+Learning Go, distributed systems (MIT 6.824-style), and system design fundamentals through resources like [system-design-mastery](https://github.com/RIT-MESH/system-design-mastery). Also building webhook delivery infrastructure with retries and idempotency for practice, and shipping design-driven side projects, from a GitHub-contribution-style habit tracker to a generative isometric cityscape poster built from contribution graphs.
 
 ---
 
@@ -220,6 +224,10 @@ Learning distributed systems (MIT 6.824-style), building webhook delivery infras
 
 <a href="mailto:rittikbarman20@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
+</a>
+
+<a href="https://x.com/rkbdevir7">
+  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
