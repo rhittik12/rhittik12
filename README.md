@@ -94,9 +94,13 @@ Delivered full-stack systems for restaurant operations, salon booking, UK-based 
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js)
 ![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go)
+![Gin](https://img.shields.io/badge/Gin-0d1117?style=flat-square&logo=gin)
+![Fiber](https://img.shields.io/badge/Fiber-0d1117?style=flat-square)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi)
 ![tRPC](https://img.shields.io/badge/tRPC-0d1117?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql)
+![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb)
