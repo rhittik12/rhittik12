@@ -16,7 +16,6 @@
 ### 🔗 [linkedin.com/in/rhittikbarman](https://linkedin.com/in/rhittikbarman) &nbsp;·&nbsp; [rittikbarman20@gmail.com](mailto:rittikbarman20@gmail.com) &nbsp;·&nbsp; [@rkbdevir7](https://x.com/rkbdevir7)
 
 <!-- ④ QUICK-SCAN BADGES -->
-![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay-B.Tech%20Final%20Year-0d1117?style=flat-square&labelColor=1f6feb&color=161b22)
 ![Freelance](https://img.shields.io/badge/Freelance-Full%20Stack%20Developer-0d1117?style=flat-square&labelColor=238636&color=161b22)
 
 </div>
