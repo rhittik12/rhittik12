@@ -179,12 +179,12 @@ Spin for a random tech topic, test how well you actually know it, then write abo
 
 <td width="50%" valign="top">
 
-### [🧾 AI Content Generator](https://ai-content-generator-33ec.vercel.app/)
-Content generation tool built on the OpenAI API with user auth and persistent history.
+### [🪝 Hookkeeper](https://github.com/rhittik12/hookkeeper)
+Distributed webhook delivery system built from scratch to learn queue-based architecture and distributed systems hands-on. Retries with exponential backoff, atomic idempotency, a custom token-bucket rate limiter (Redis Lua scripts), dead-letter replay, and a self-healing sweeper for recovering events lost to transient Redis failures. Load tested past 40,000 events.
 
-`Next.js` `OpenAI` `Drizzle` `Neon` `Clerk`
+`Next.js` `TypeScript` `BullMQ` `Redis` `PostgreSQL` `Drizzle ORM`
 
-[🔗 Live](https://ai-content-generator-33ec.vercel.app/)
+[📁 Repo](https://github.com/rhittik12/hookkeeper)
 
 </td>
 
